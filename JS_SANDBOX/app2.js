@@ -1,0 +1,12 @@
+const name = 'John Doe';
+console.log(typeof name);
+const age = 90;
+console.log(typeof age);
+const kids = true;
+console.log(typeof kids);
+const car = null;
+console.log(typeof car);
+let big;
+console.log(typeof big);
+const sym = symbol();
+console.log(typeof sym);
